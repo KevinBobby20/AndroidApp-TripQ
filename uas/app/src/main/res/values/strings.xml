@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Tripq</string>
+
+    <string-array name="dropdown_nama">
+        <item>Benteng Marlborough</item>
+        <item>Bukit Lawang</item>
+        <item>Candi Borobudur</item>
+        <item>Candi Prambanan</item>
+        <item>Canggu</item>
+        <item>Danau Buyan</item>
+        <item>Danau Maninjau</item>
+        <item>Danau Sentarum</item>
+        <item>Danau Tamblingan</item>
+        <item>Danau Toba</item>
+        <item>GWK Cultural Park</item>
+        <item>Goa Belanda</item>
+        <item>Goa Gong</item>
+        <item>Gunung Bromo</item>
+        <item>Gunung Ijen</item>
+        <item>Gunung Kelam</item>
+        <item>Kawah Putih</item>
+        <item>Kebun Raya Bogor</item>
+        <item>Klenteng Sam Poo Kong</item>
+        <item>Kota Lama</item>
+        <item>Kota Tua</item>
+        <item>Lawang Sewu</item>
+        <item>Moja Museum</item>
+        <item>Monumen Nasional</item>
+        <item>Ngarai Sianok</item>
+        <item>Nusa Penida</item>
+        <item>Pantai Air Manis</item>
+        <item>Pantai Melawai</item>
+        <item>Pantai Pangandaran</item>
+        <item>Pantai Sanur</item>
+        <item>Pantai Seminyak</item>
+        <item>Pantai Ujung Genteng</item>
+        <item>Pulau Kakaban</item>
+        <item>Raja Ampat</item>
+        <item>Taman Bunga Nusantara</item>
+        <item>Taman Laut Bunaken</item>
+        <item>Taman Mini Indonesia Indah</item>
+        <item>Taman Nasional Komodo</item>
+        <item>Taman Nasional Tanjung Puting</item>
+    </string-array>
+</resources>

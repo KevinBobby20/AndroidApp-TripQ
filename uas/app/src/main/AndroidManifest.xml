@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="umn.ac.id.uas">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logocek"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logocek"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Uas">
+        <activity android:name=".UpdateActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".create2" android:screenOrientation="portrait"/>
+        <activity android:name=".ViewActivity" android:screenOrientation="portrait" />
+        <activity android:name=".canggu" android:screenOrientation="portrait" />
+        <activity
+            android:name=".rekomendasi1"
+            android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait" />
+        <activity android:name=".jadwal" android:screenOrientation="portrait" />
+        <activity android:name=".search"  android:screenOrientation="portrait"/>
+        <activity android:name=".rekomendasi" android:screenOrientation="portrait" />
+        <activity android:name=".create" android:screenOrientation="portrait" />
+        <activity android:name=".home"  android:screenOrientation="portrait"/>
+        <activity android:name=".start3" android:screenOrientation="portrait" />
+        <activity android:name=".start2" android:screenOrientation="portrait" />
+        <activity android:name=".start" android:screenOrientation="portrait"/>
+        <activity android:name=".MainActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
